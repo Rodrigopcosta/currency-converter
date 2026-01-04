@@ -18,8 +18,8 @@ Em breve
 ![Desktop - Tema Escuro](./public/preview/desktop-dark.png)
 
 ### 📱 Mobile
-![Mobile - Tema Claro](./preview/mobile-light.png)
-![Mobile - Tema Escuro](./preview/mobile-dark.png)
+![Mobile - Tema Claro](./public/preview/mobile-light.png)
+![Mobile - Tema Escuro](./public/preview/mobile-dark.png)
 
 
 ## 🚀 Características
