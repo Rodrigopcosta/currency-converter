@@ -1,4 +1,4 @@
-# 💱 Conversor de Moedas Online
+# Conversor de Moedas Online
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
@@ -8,7 +8,7 @@
 Aplicação web para conversão de moedas em tempo real, desenvolvida com Next.js e TypeScript, com foco em performance, SEO e experiência do usuário.
 
 🔗 **Aplicação em produção:**  
-Em breve
+https://currency-converter-nu-livid.vercel.app/
 
 ## 🖥️📱 Preview da Aplicação
 
