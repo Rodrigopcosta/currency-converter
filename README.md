@@ -14,8 +14,8 @@ Em breve
 
 ### 🖥️ Desktop
 
-![Desktop - Tema Claro](./preview/desktop-light.png)
-![Desktop - Tema Escuro](./preview/desktop-dark.png)
+![Desktop - Tema Claro](./public/preview/desktop-light.png)
+![Desktop - Tema Escuro](./public/preview/desktop-dark.png)
 
 ### 📱 Mobile
 ![Mobile - Tema Claro](./preview/mobile-light.png)
