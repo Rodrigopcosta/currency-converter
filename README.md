@@ -1,9 +1,10 @@
 # Conversor de Moedas Online
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Next.js](https://img.shields.io/badge/Next.js-16-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
-![PWA](https://img.shields.io/badge/PWA-ready-purple)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Rodrigopcosta/currency-converter/blob/main/LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)](https://www.typescriptlang.org/)
+[![PWA](https://img.shields.io/badge/PWA-ready-purple)](https://web.dev/progressive-web-apps/)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel)](https://currency-converter-nu-livid.vercel.app/)
 
 Aplicação web para conversão de moedas em tempo real, desenvolvida com Next.js e TypeScript, com foco em performance, SEO e experiência do usuário.
 
@@ -204,16 +205,6 @@ https://api.exchangerate-api.com/v4/latest/{MOEDA_BASE}
 - ✅ Zoom até 200% sem perda de funcionalidade
 
 
-## 🎉 Recursos Adicionais
-
-- [Documentação Next.js](https://nextjs.org/docs)
-- [shadcn/ui](https://ui.shadcn.com)
-- [Recharts](https://recharts.org)
-- [Google AdSense](https://adsense.google.com)
-- [PWA Builder](https://www.pwabuilder.com)
-- [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-- [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Rodrigo Costa**
@@ -222,10 +213,5 @@ Desenvolvido por **Rodrigo Costa**
 - 💻 GitHub: https://github.com/Rodrigopcosta
 
 Projeto desenvolvido com foco em boas práticas de engenharia front-end, performance, SEO e experiência do usuário.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença **MIT**.  
-Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 
