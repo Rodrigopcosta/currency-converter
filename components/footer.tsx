@@ -80,10 +80,10 @@ export function Footer() {
             © {currentYear} {t.header.title}. {t.footer.copyright}
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
-            <Link href="/privacidade" className="hover:text-primary transition-colors">
+            <Link href="/privacy" className="hover:text-primary transition-colors">
               Política de Privacidade
             </Link>
-            <Link href="/termos" className="hover:text-primary transition-colors">
+            <Link href="/terms" className="hover:text-primary transition-colors">
               Termos de Uso
             </Link>
           </div>
