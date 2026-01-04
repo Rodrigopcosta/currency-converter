@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seu-usuario/conversor-app"
+    "url": "https://github.com/Rodrigopcosta/currency-converter.git"
   },
   "bugs": {
-    "url": "https://github.com/seu-usuario/conversor-app/issues"
+    "url": "https://github.com/Rodrigopcosta/currency-converter/issues"
   },
-  "homepage": "https://seu-usuario.github.io/conversor-app",
+  "homepage": "https://github.com/Rodrigopcosta/currency-converter.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

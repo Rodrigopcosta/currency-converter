@@ -20,11 +20,11 @@ export const metadata: Metadata = {
     "cotação moedas",
     "conversor financeiro"
   ],
-  authors: [{ name: "Rodrigo Pereira" }],
-  creator: "Rodrigo Pereira",
+  authors: [{ name: "Rodrigo Costa" }],
+  creator: "Rodrigo Costa",
   publisher: "Conversor de Moedas",
   applicationName: "Conversor de Moedas",
-  metadataBase: new URL("https://seusite.com"),
+  metadataBase: new URL("https://currency-converter-nu-livid.vercel.app/"),
   alternates: {
     canonical: "/"
   },
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     title: "Conversor de Moedas Online",
     description:
       "Converta moedas com taxas atualizadas em tempo real. Ferramenta financeira moderna e confiável.",
-    url: "https://seusite.com",
+    url: "https://currency-converter-nu-livid.vercel.app/",
     siteName: "Conversor de Moedas",
     locale: "pt_BR",
     type: "website",
