@@ -17,7 +17,7 @@ export function Header() {
             <div className="bg-primary text-primary-foreground p-2 rounded-lg">
               <DollarSign className="h-6 w-6" />
             </div>
-            <span className="text-xl font-bold">{t.header.title}</span>
+            <span className="text-xl font-bold hidden md:block">{t.header.title}</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-6">
