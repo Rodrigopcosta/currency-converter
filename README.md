@@ -6,24 +6,22 @@
 [![PWA](https://img.shields.io/badge/PWA-ready-purple)](https://web.dev/progressive-web-apps/)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel)](https://currency-converter-nu-livid.vercel.app/)
 
-Aplicação web para conversão de moedas em tempo real, desenvolvida com Next.js e TypeScript, com foco em performance, SEO e experiência do usuário.
 
 🔗 **Aplicação em produção:**  
 https://currency-converter-nu-livid.vercel.app/
 
 ## 🖥️📱 Preview da Aplicação
 
-### 🖥️ Desktop
-
-![Desktop - Tema Claro](./public/preview/desktop-light.png)
-![Desktop - Tema Escuro](./public/preview/desktop-dark.png)
-
-### 📱 Mobile
-![Mobile - Tema Claro](./public/preview/mobile-light.png)
-![Mobile - Tema Escuro](./public/preview/mobile-dark.png)
+![Desktop](./public/preview/desktop.png)
+![Desktop](./public/preview/desktop.png)
 
 
-## 🚀 Características
+## 🚀 Sobre o Projeto
+
+Aplicação web para conversão de moedas em tempo real, desenvolvida com Next.js e TypeScript, com foco em performance, SEO e experiência do usuário.
+
+
+## ✨ Características
 
 ### Funcionalidades Principais
 - ✅ Conversão das moedas mais utilizadas no mercado global
@@ -209,8 +207,9 @@ https://api.exchangerate-api.com/v4/latest/{MOEDA_BASE}
 
 Desenvolvido por **Rodrigo Costa**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rodrigopc-developer/
-- 💻 GitHub: https://github.com/Rodrigopcosta
+- GitHub: [@Rodrigopcosta](https://github.com/Rodrigopcosta)
+- LinkedIn: [in/rodrigopc-developer](https://www.linkedin.com/in/rodrigopc-developer)
+- Portfolio: [rodrigopcosta.github.io](https://rodrigopcosta.github.io)
 
 Projeto desenvolvido com foco em boas práticas de engenharia front-end, performance, SEO e experiência do usuário.
 
