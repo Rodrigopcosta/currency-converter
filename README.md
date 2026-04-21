@@ -13,7 +13,7 @@ https://currency-converter-nu-livid.vercel.app/
 ## 🖥️📱 Preview da Aplicação
 
 ![Desktop](./public/preview/desktop.png)
-![Desktop](./public/preview/desktop.png)
+![Desktop](./public/preview/mobile.png)
 
 
 ## 🚀 Sobre o Projeto
